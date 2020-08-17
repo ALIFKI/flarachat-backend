@@ -1,5 +1,5 @@
-# LibraryApp-API
-LibraryApp-API Backend with nodeJS
+# Flarachat-API
+Flarachat-API Backend with nodeJS
 RESTfull API for Library apps backend system
 
 # Installation
